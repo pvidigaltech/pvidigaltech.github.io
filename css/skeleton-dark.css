@@ -88,6 +88,7 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 100%;
   color-scheme: dark;
+  background-color: #1c0407;
 }
 body {
   font-size: 18px;
