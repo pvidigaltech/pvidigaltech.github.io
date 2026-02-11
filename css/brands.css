@@ -447,7 +447,7 @@ button:hover,
 .button.button-google-black {
   color: #FFFFFF;
   background-color: #000000;
-  border: 1px solid #FFFFFF;
+  border: 1px solid #000000;
 }
 .button.button-google-black:hover,
 .button.button-google-black:focus {
